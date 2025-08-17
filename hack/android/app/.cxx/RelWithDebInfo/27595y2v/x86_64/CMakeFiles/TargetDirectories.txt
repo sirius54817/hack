@@ -1,0 +1,2 @@
+C:/Users/Chaitanya/Desktop/hack/hack/android/app/.cxx/RelWithDebInfo/27595y2v/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Chaitanya/Desktop/hack/hack/android/app/.cxx/RelWithDebInfo/27595y2v/x86_64/CMakeFiles/rebuild_cache.dir

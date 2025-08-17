@@ -1,0 +1,2 @@
+C:/Users/Chaitanya/Desktop/hack/hack/android/app/.cxx/Debug/446r5121/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Chaitanya/Desktop/hack/hack/android/app/.cxx/Debug/446r5121/armeabi-v7a/CMakeFiles/rebuild_cache.dir
